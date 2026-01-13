@@ -1,7 +1,7 @@
 # RapKong
 
 <div align="center" style="padding-top: 50px">
-<img src="/Resources/RapKong.png" />
+<img src="/Resources/RapKong.jpg" />
     <br>
     <br>
     <b><i>Small Uci chess engine 2300 elo.</i></b>
